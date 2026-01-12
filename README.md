@@ -130,3 +130,5 @@ Next.js 15 + TypeScript + Tailwind CSS + shadcn/ui
 For learning and testing purposes only. Please comply with local laws and regulations.
 
 本工具仅用于学习和测试目的，请遵守当地法律法规。
+
+
